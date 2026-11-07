@@ -1,7 +1,7 @@
 # Hi there, I'm Sacheen Shrestha! 👋
 
 ## 🚀 About Me
-I'm a passionate **Data Scientist & AI Enthusiast** with a strong foundation in **Python, Machine Learning, and Quantitative Finance**. My interests lie in using AI to optimize **trading strategies**, analyze **financial markets**, and develop **intelligent systems**.
+**T-shaped Engineer** with a strong foundation in **Python, Machine Learning, and Quantitative Finance**. My interests lie in using AI to optimize **trading strategies**, analyze **financial markets**, and develop **intelligent systems**.
 
 ## 🧠 What I Work On
 - **Quantitative Finance & Trading Bots**: Developing AI-driven trading models, including a **forex trading bot** using the **OANDA API** and **NNFX strategy**.
